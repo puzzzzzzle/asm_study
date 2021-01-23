@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.7)
-set(project_name template_project)
+set(project_name asm_study)
 set(CMAKE_CXX_STANDARD 17)
 
 
